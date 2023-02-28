@@ -1,5 +1,3 @@
-![]([https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png](https://github.com/murli0038/Mi_Card/blob/master/images/ss1.jpg))
-
 # Mi Card
 
 Mi Card is an individualized business card that enables you to share your contact information or business details with someone even if you don't have a physical card on hand. With this app, you can ask others to download and access your business card.
@@ -14,3 +12,7 @@ Mi Card is an individualized business card that enables you to share your contac
 - Material icons
 - Style Text widgets
 - Flutter Documentation
+
+## Screenshots
+
+![App Screenshot](https://github.com/murli0038/Mi_Card/blob/master/images/ss1.jpg)
